@@ -1,0 +1,52 @@
+.title {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ux {
+  color:gray;
+  font-size: 20px;
+}
+
+.tasneem {
+  color:blue;
+  font-size: 20px;
+}
+
+.ux:hover {
+color: blue;
+
+}
+
+
+a:link {
+  text-decoration: none;
+}
+
+#nav {
+  color: gray;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 45px;
+}
+
+
+#nav a, a:visited {
+  text-decoration: none;
+}
+
+.image {
+width: 100%;
+}
+
+.bold {
+  color:gray;
+  font-size: 20px;
+}
+
+.spacer {
+  margin-top: 30px;
+}
+
+
